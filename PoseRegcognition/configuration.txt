@@ -1,0 +1,5 @@
+# this is the configuration of using recognize
+
+# read file path
+# pleas not add any `space` between '=' and your path
+file_path=PoseRegcognition/DatasetPhoto/LargeView/FullBody/1.jpg
